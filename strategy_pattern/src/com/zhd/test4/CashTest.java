@@ -1,5 +1,8 @@
 package com.zhd.test4;
 
+/**
+ * 客户端测试类
+ */
 public class CashTest {
     public static void main(String[] args) {
 
